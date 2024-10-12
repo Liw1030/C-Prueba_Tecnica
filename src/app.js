@@ -23,7 +23,7 @@ app.use(myConnection(mysql,{
     user:'root',
     password:'L1zeth.15*',
     port: 3306,
-    database: 'Crudfinanzas'
+    database: 'CrudfinanzasPersonales'
 }, 'single'));
 
 //rutas
